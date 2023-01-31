@@ -1,5 +1,5 @@
 # preparing-Interview
-면접대비
+면접준비
 
 Algorithm
 
